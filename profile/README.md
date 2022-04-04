@@ -1,4 +1,4 @@
-![kastervo-open-source](https://github.com/Kastervo/.github/blob/main/images/open_source.png) 
+![kastervo-open-source](https://github.com/Kastervo/.github/blob/master/images/open_source.png)
 
 ## About
 
